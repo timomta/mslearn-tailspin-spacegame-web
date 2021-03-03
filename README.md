@@ -1,3 +1,4 @@
+[![Build Status](https://tomta.visualstudio.com/Space%20Game%20web%20pipeline/_apis/build/status/timomta.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://tomta.visualstudio.com/Space%20Game%20web%20pipeline/_build/latest?definitionId=3&branchName=build-pipeline)
 
 # Contributing
 
